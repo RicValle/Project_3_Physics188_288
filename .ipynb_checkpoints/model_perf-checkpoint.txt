@@ -1,0 +1,9 @@
+LATTICE_TYPE:
+
+
+P:
+
+
+IS_LR:
+test set 0 error rate: 4.6e-05
+test set 1 error rate: 8.5e-05
