@@ -1,0 +1,27 @@
+LATTICE_TYPE:
+    test set 0 error rate: 6.6e-03
+    test set 1 error rate: 8.3e-03
+
+---------------------------------------------
+
+P:
+    SUMMARY STATISTICS, TEST SET 0:
+    number of points: 43763
+    MSE: 1.11
+    MAE: 0.50
+    max. abs. err.: 50.00
+    
+    SUMMARY STATISTICS, TEST SET 1:
+    number of points: 11779
+    MSE: 1.44
+    MAE: 0.69
+    max. abs. err.: 18.57
+    
+    set 0 |err| > 5 count: 136 (0.31%)
+    set 1 |err| > 5 count: 42  (0.36%)
+
+---------------------------------------------
+
+IS_LR:
+    test set 0 error rate: 4.6e-05
+    test set 1 error rate: 1.7e-04

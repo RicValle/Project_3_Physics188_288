@@ -2,8 +2,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import random
 
-#This is simply a conversion of Coopers Random Walk File into a normal python file to call certain functions in the Structure fileOn branch main
-
 def sample_sc_lattice(a, size, prob):
     """
     Create a simple cubic (SC) lattice with lattice constant "a." 
